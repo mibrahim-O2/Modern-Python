@@ -16,3 +16,22 @@ A simple Python program that generates QR codes from text or URLs and saves them
 
 ```bash
 pip install qrcode[pil]
+```
+---
+> `[pil]` ensures the program can create image files using Pillow.
+
+## Usage
+
+1. Run the Python script:
+
+```bash
+python qr_code_generator.py
+```
+2. Enter the text or URL you want to encode when prompted.
+
+3. The QR code will be saved as my_qrcode.png in the current folder (or a folder you specify).
+## Example
+
+Enter the data or URL for the QR Code: https://github.com/mibrahim-O2
+QR Code successfully saved as my_qrcode.png!
+
