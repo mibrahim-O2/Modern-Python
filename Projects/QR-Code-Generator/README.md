@@ -39,4 +39,8 @@ Scan this QR code to visit my GitHub profile:
 
 ![QR Code Example](https://raw.githubusercontent.com/mibrahim-O2/Modern-Python/main/Projects/QR-Code-Generator/my_qrcode.png)
 
+---
+## License
+
+This project is open source and free to use.
 
